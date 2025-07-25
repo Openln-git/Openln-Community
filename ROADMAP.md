@@ -20,7 +20,6 @@ The openln-engine MVP aims to provide:
 ### MVP Milestones
 
 #### Phase 1: Foundation (Current)
-*Target: Q2-Q3 2024*
 
 - [ ] **Core Architecture Design**
   - Define main engine components
@@ -43,7 +42,6 @@ The openln-engine MVP aims to provide:
   - Architecture overview
 
 #### Phase 2: Core Features (Next)
-*Target: Q3-Q4 2024*
 
 - [ ] **Feature Implementation**
   - Primary use case functionality
@@ -66,7 +64,6 @@ The openln-engine MVP aims to provide:
   - Community feedback mechanisms
 
 #### Phase 3: Polish & Release (Future)
-*Target: Q4 2024 - Q1 2025*
 
 - [ ] **MVP Release Preparation**
   - Feature completeness review
@@ -198,9 +195,9 @@ We measure our progress against these key metrics:
 
 | Date | Changes | Version |
 |------|---------|---------|
-| 2024-07-25 | Initial roadmap with openln-engine MVP focus | 1.0 |
+| 2025-07-25 | Initial roadmap with openln-engine MVP focus | 1.0 |
 
-*Last updated: July 25, 2024*
+*Last updated: July 25, 2025*
 
 ---
 
